@@ -1,0 +1,13 @@
+# Configuración local (contiene la sessionKey: nunca subir)
+config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
